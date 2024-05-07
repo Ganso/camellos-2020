@@ -12,5 +12,5 @@ Podéis jugar desde el navegador en [el blog de PICO-8](https://www.lexaloffle.c
 
 Dentro del juego, el botón correspondiente a la tecla Z se representa con un círculo, y el de la X con un aspa. Es muy importante asociar «círculo» a «tecla Z» si jugáis desde un navegador.
 
-Como en cualquier juego de esta máquina virtual, esta imagen de la pantalla es, a la misma vez, el propio código del juego:
+Como en cualquier juego de esta máquina virtual, esta captura de pantalla contiene, a la misma vez, el propio código del juego en sus metadatos:
 ![camellos_0](https://github.com/Ganso/camellos-2020/assets/1718890/5efc5a60-41cc-4a99-a8a5-fdcad6379146)
